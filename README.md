@@ -86,16 +86,6 @@ brain-network-analysis/
 * **Degree**
 
 ---
-
-## 👩‍💻 Authors
-
-* **Megha Rajeev P** (IDK21IT029)
-* Amina I R (IDK21IT008)
-* Arya Satheesh (IDK21IT013)
-* Glory Susan Thomas (TRV21IT024)
-* **Guide**: Prof. Rendhir R Prasad
-
----
 This project is for academic purposes only and is not open for reuse.
 ---
 
