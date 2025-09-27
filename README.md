@@ -51,7 +51,7 @@ The dataset used in this project was obtained from **SCTIMST, Kerala, India**, a
 ```
 brain-network-analysis/
 │
-├── notebooks/        # Jupyter notebooks for analysis
+├── Code/        # Jupyter notebooks for analysis
 ├── results/          # Example output figures and graphs
 ├── docs/             # Documentation, diagrams, and project images
 │
