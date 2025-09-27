@@ -54,10 +54,8 @@ brain-network-analysis/
 ├── Code/        # Jupyter notebooks for analysis
 ├── results/          # Example output figures and graphs
 ├── docs/             # Documentation, diagrams, and project images
-│
 ├── README.md         # Project overview
-├── requirements.txt  # Dependencies
-└── .gitignore        # Ignore unnecessary files
+└── requirements.txt  # Dependencies
 
 
 ```
