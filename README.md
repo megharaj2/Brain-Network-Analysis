@@ -58,7 +58,16 @@ brain-network-analysis/
 ├── README.md         # Project overview
 ├── requirements.txt  # Dependencies
 └── .gitignore        # Ignore unnecessary files
+
+
 ```
+
+## 🔧 Prerequisites (Non-Python Tools)
+- MATLAB (tested with R2022a+)
+- [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) (Statistical Parametric Mapping)
+- [CONN Toolbox](https://web.conn-toolbox.org/) v22
+- [Gephi](https://gephi.org/) (for network visualization)
+
 
 ---
 
